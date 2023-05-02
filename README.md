@@ -4,7 +4,7 @@
 
 ## Soft Skill 
 This puzzle/game is used to judge user's Perseverance.This soft skill refers to the quality of persisting in a task or goal despite obstacles or setbacks.
-In this puzzle their is a setback of monster which can bring you down at any moment of the game . The user id expected to not quit abd keep answering the questions until the user wins that game. Individuals who possess this quality tend to be tenacious and determined, which can help them achieve success in their personal and professional lives. Perseverance is particularly important when faced with difficult challenges, as it can help individuals stay focused and motivated to overcome obstacles and achieve their objectives.
+In this puzzle their is a setback of monster which can bring you down at any moment of the game . The user is expected to not quit and keep answering the questions by taking care of the points until the user wins that game. Individuals who possess this quality tend to be tenacious and determined, which can help them achieve success in their personal and professional lives. Perseverance is particularly important when faced with difficult challenges, as it can help individuals stay focused and motivated to overcome obstacles and achieve their objectives.
 
 ## Tech Stack
 
