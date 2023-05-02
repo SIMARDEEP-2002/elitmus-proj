@@ -1,6 +1,10 @@
 # Escalade
 
-Portal for Escalade held on July 16-17, 2022. There is a board (same as snakes and ladders) numbered from 1 to 80. Initially, the team will be at position 0. First, a die will be rolled, then the team has two options, either to re-roll, which will cost 15 points, or take a sneak peek(which will reveal whether, at the upcoming position, there is a monster or a booster), which will cost 25 points. After that, a question will appear(on a random basis), and the team has to answer that question to move forward. Answering a question correctly will reward 10 points and the player moves forward the number of places that appeared on the die. Points will not be rewarded for answering the same question multiple times. The team can take one hint per question(which will cost 10 points). If a team encounters a monster at any position, they will step down to a specified position. If the team encounters a booster, they will move up to a specific position.
+ There is a board (same as snakes and ladders) numbered from 1 to 80. Initially, the user will be at position 0. First, a die will be rolled, then the team has two options, either to re-roll, which will cost 15 points, or take a sneak peek(which will reveal whether, at the upcoming position, there is a monster or a booster), which will cost 25 points. After that, a question will appear(on a random basis), and the team has to answer that question to move forward. Answering a question correctly will reward 10 points and the player moves forward the number of places that appeared on the die. Points will not be rewarded for answering the same question multiple times. The team can take one hint per question(which will cost 10 points). If a team encounters a monster at any position, they will step down to a specified position. If the team encounters a booster, they will move up to a specific position.
+
+## Soft Skill 
+This puzzle/game is used to judge user's Perseverance.This soft skill refers to the quality of persisting in a task or goal despite obstacles or setbacks.
+In this puzzle their is a setback of monster which can bring you down at any moment of the game . The user id expected to not quit abd keep answering the questions until the user wins that game. Individuals who possess this quality tend to be tenacious and determined, which can help them achieve success in their personal and professional lives. Perseverance is particularly important when faced with difficult challenges, as it can help individuals stay focused and motivated to overcome obstacles and achieve their objectives.
 
 ## Tech Stack
 
@@ -108,16 +112,5 @@ To add data such as questions and boards information to database, open *Admin Pa
 - `logout/` - Logout
 - `admin/` - Admin Panel
 
-## Team
 
-- [Aditya Parmar](https://github.com/adityaParmar9813)
-- [Chandravo Bhattacharya](https://github.com/Chandravo)
-- [Tijil Malhotra](https://github.com/TijilM)
-- [Vaniya Tripathi](https://github.com/VaniyaTripathi)
-- [Tanmay Deshkar](https://github.com/Fluorospek)
-- [Rimjhim Mittal](https://github.com/rimjhimittal)
-- [Saanvi Sharma](https://github.com/Saanvi49)
-- [Arvinder Singh Kandola](https://github.com/askandola)
-- [Vivaan Taneja](https://github.com/vivaantaneja)
-- [Atin Arora](https://github.com/jimbo-exe/)
-- [Garv Chandalia](https://github.com/grc-04)
+
